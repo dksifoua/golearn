@@ -1,0 +1,1 @@
+[![](https://github.com/dksifoua/golearn/actions/workflows/ci.yaml/badge.svg)](https://github.com/dksifoua/golearn/actions/workflows/ci.yaml/badge.svg)
